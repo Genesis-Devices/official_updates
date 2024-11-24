@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1732441038,
+      "filename": "GenesisOS-4.0-Verve-miatoll-OFFICIAL-20241124-0940.zip",
+      "id": "3f4465193e192a4c0fa4bcea8c6e7de4661e2bc8120e475fb3fcb7a01d0632b8",
+      "size": 2402677164,
+      "url": "https://dl.genesisos.dev/0:/miatoll/GenesisOS-4.0-Verve-miatoll-OFFICIAL-20241124-0940.zip",
+      "version": "Verve",
+      "devicename": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+      "maintainer": "RiteshSahany"
+    }
+  ]
+}
