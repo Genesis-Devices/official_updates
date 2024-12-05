@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1733247835,
+      "filename": "GenesisOS-4.0-Verve-rhode-OFFICIAL-20241203-1746.zip",
+      "id": "0f3e2e9f16f59c605039ac35c95131cd6a5009e0126b59f2b4b3febeec1a3d0a",
+      "size": 1755825193,
+      "url": "https://dl.genesisos.dev/0:/rhode/GenesisOS-4.0-Verve-rhode-OFFICIAL-20241203-1746.zip",
+      "version": "Verve",
+      "devicename": "Moto G52",
+      "maintainer": "José"
+    }
+  ]
+}
