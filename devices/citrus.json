@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1733632355,
+      "filename": "GenesisOS-4.0-Verve-citrus-OFFICIAL-20241208-0438.zip",
+      "id": "83c857546ea2b62f22a3102a4d1522d45062a0e4368bdcf4feaed8587303891c",
+      "size": 2144109314,
+      "url": "https://dl.genesisos.dev/0:/citrus/GenesisOS-4.0-Verve-citrus-OFFICIAL-20241208-0438.zip",
+      "version": "Verve",
+      "devicename": "Poco M3",
+      "maintainer": "Ash"
+    }
+  ]
+}
