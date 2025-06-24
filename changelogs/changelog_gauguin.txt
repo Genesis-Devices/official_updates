@@ -3,6 +3,10 @@ Build type: Stable
 Device: Redmi Note 9 5G / Mi 10T Lite / Mi 10i
 Device maintainer: Penguin
 
+===== 24 June 2025 ========
+* Fixed random bootloop issue on device reboot
+* Switched to OpenGL renderer for improved UI smoothness and responsiveness
+
 ===== 17 April 2025 ========
 * Dropped OMX Codecs
 * Updated Audio HAL
